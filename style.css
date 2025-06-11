@@ -1,11 +1,11 @@
 a {
   text-decoration: none;
+  color: black;
 }
 .logo img {
   border-radius: 100%;
 }
-.Heroimg {
-}
+
 body {
   display: flex;
 }
@@ -24,6 +24,7 @@ main {
   background-size: cover;
   width: 85vw;
   margin-left: 15vw;
+  backdrop-filter: blur(1.5px);
 }
 .kate {
   background-color: rgba(0, 0, 0, 0.3);
@@ -44,9 +45,7 @@ main {
   text-decoration: overline;
   color: rgb(210, 210, 210);
 }
-a {
-  text-decoration: none;
-}
+
 h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
