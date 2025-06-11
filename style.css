@@ -56,20 +56,20 @@ h1 {
 body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  background-color: #fff0f5;
+  background-color: #950952;
   margin: 0;
   padding: 0;
 }
 
 .product-section {
   padding: 60px 20px;
-  background: linear-gradient(145deg, #ffe4e1, #fff0f5);
+  background-color: #950952;
   text-align: center;
 }
 
 .section-title {
   font-size: 2.5rem;
-  color: #d63384;
+  color: #2d2b2c;
   margin-bottom: 40px;
 }
 
